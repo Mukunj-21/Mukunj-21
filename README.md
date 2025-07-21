@@ -1,6 +1,5 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+👋+I'm+MUKUNJ+MUNDHRA+😎!" />
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!%20👋%20I'm%20MUKUNJ%20MUNDHRA%20%F0%9F%98%8E!" />
+
 
 
 <h3 align="center">
@@ -89,9 +88,7 @@ A multi-language translator web app for instant text translation across major wo
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <!-- Streamlit -->
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/streamlit/streamlit/develop/assets/logo/streamlit-logo-primary-colormark-lighttext.svg" alt="streamlit" width="40" height="40"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/>
   <!-- Flask -->
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/>
@@ -164,9 +161,7 @@ A multi-language translator web app for instant text translation across major wo
     <img src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/cloud_vision_api.png" alt="google_vision" width="40" height="40"/>
   </a>
   <!-- Google Translate API -->
-  <a href="https://cloud.google.com/translate" target="_blank" rel="noreferrer">
-    <img src="https://cloud.google.com/_static/f8fb/images/cloud/icons/favicons/translate-32.png" alt="google_translate" width="40" height="40"/>
-  </a>
+  <img src="https://img.icons8.com/color/48/000000/google-translate.png" alt="google-translate" width="40" height="40"/>
   <!-- LangChain -->
   <a href="https://python.langchain.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="langchain" width="40" height="40"/>
