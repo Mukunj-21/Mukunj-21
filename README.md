@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines= Hey!+👋+I'm+MUKUNJ+MUNDHRA+😎!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines= Hey There!;+👋+It's+MUKUNJ+MUNDHRA+😎!" />
 </h1>
 
 <h2 align="center">
@@ -192,10 +192,6 @@ A multi-language translator web app for instant text translation across major wo
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukunj-21&show_icons=true&locale=en&layout=compact" alt="Mukunj" /></p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mukunj-21&show_icons=true&locale=en" alt="Mukunj-21" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukunj-21" alt="Mukunj-21" />
