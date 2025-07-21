@@ -2,11 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines= Hey!+👋+I'm+MUKUNJ+MUNDHRA+😎!" />
 </h1>
 
-<h3 align="center">
-  🚀 Final Year Computer Science Undergrad <br><br>
-</h3>
-
 <h2 align="center">
+  🚀 Final Year Computer Science Undergrad <br><br>
+</h2>
+
+<h4 align="center">
   <span>
     Passionate about <b>AI/ML frameworks</b>, crafting <b>impactful data visualizations</b>, and turning bold ideas into innovative tech.<br>
     <br>
@@ -14,7 +14,7 @@
     <br>
     📬 <i>Let's connect!</i> I'm always open to collaborations, research opportunities, and adventurous challenges that push boundaries.
   </span>
-</h2>
+</h4>
 
 
 ---
