@@ -1,17 +1,17 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+👋 +It's+MUKUNJ MUNDHRA 😎!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+👋+I'm+MUKUNJ+MUNDHRA+😎!" />
 </h1>
 
 
-
 <h3 align="center">
-
-Final Year Computer Science Undergrad
-
-Specializing in **AI/ML frameworks** , **advanced data analytics for efficient visualization & impactful analysis** , and **innovative solution development.**
-
-📬 Always open to collaborations, research opportunities, and exciting challenges .
-
+  🚀 Final Year Computer Science Undergrad <br><br>
+  <span>
+    Passionate about <b>AI/ML frameworks</b>, crafting <b>impactful data visualizations</b>, and turning bold ideas into innovative tech.<br>
+    <br>
+    <b>Specialties:</b> Advanced <b>analytics</b>, creative <b>problem-solving</b>, and building practical, user-focused solutions. <br>
+    <br>
+    📬 <i>Let's connect!</i> I'm always open to collaborations, research opportunities, and adventurous challenges that push boundaries.
+  </span>
 </h3>
 
 
@@ -197,6 +197,10 @@ A multi-language translator web app for instant text translation across major wo
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukunj-21&show_icons=true&locale=en&layout=compact" alt="Mukunj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username= Mukunj-21&show_icons=true&locale=en" alt="Mukunj-21" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mukunj-21&show_icons=true&locale=en" alt="Mukunj-21" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mukunj-21&" alt="Mukunj-21" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukunj-21" alt="Mukunj-21" />
+</p>
